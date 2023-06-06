@@ -8,6 +8,8 @@ generate_feed = true
 minify_html = true
 render_emoji = true
 taxonomies = []
+highlight_theme = "Material Monokai Dark"
+extra_syntaxes_and_themes = ["syntaxes"]
 
 [slugify]
 paths = "off"
