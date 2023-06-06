@@ -1,0 +1,3 @@
+[submodule "zola/syntaxes/squirrel"]
+	path = zola/syntaxes/squirrel
+	url = https://github.com/Enduriel/Sublime-Squirrel.git
