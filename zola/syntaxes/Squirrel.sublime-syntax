@@ -6,6 +6,7 @@ version: 2
 comment: 'Squirrel Improved Syntax: version 3.1.0'
 file_extensions:
   - nut
+  - squirrel
 scope: source.nut
 contexts:
   main:
