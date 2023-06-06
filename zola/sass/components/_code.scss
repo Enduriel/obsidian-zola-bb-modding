@@ -15,6 +15,8 @@ pre {
   background: $beige;
   color: $black;
   margin: 2rem 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 
 pre code {
